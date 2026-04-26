@@ -1,0 +1,8 @@
+streamlit
+polars
+langchain
+langchain-google-genai
+langchain-experimental
+plotly
+python-dotenv
+openpyxl
