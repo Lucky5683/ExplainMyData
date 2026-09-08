@@ -42,7 +42,7 @@ ExplainMyData is an AI-powered data analytics platform that preprocesses Excel a
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ExplainMyData.git
+git clone https://github.com/Lucky5683/ExplainMyData.git
 cd ExplainMyData
 pip install -r requirements.txt
 streamlit run app.py
